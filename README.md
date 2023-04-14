@@ -1,2 +1,1 @@
-# Meteo
-# Meteo-v2
+Ce projet est une fonction JavaScript qui permet de récupérer les informations météorologiques d'une ville à partir de l'API OpenWeatherMap. Les informations récupérées comprennent la température en degrés Celsius et le nom de la ville.
